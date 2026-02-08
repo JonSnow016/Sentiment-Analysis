@@ -1,9 +1,7 @@
 """
-01_build_long_dataset.py
-
 Build a tidy, long format dataset from the Excel workbook.
 
-Input format (per sheet)
+Input format:
 Candidate headers are in row 1 of columns A, C, E, ...
 Posts for that candidate are in the adjacent column B, D, F, ... down the rows.
 """
