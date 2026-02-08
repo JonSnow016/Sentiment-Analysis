@@ -1,13 +1,9 @@
 """
-03_frequency_and_zipf.py
-
 Reproduce the frequency based outputs from the notebook:
 1) Candidate polar bar charts of top words
 2) 3D candidate versus top word frequency plots by state
 3) Candidate level histograms of top words
 4) Zipf distribution plots and slope estimates
-
-Outputs are written under outputs/ using folder names aligned with the Google Drive structure.
 """
 
 from __future__ import annotations
