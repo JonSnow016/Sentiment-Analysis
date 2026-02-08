@@ -1,9 +1,5 @@
 """
-02_wordclouds.py
-
 Generate word clouds from the long format dataset.
-
-Outputs are written under outputs/WordCloud/.
 """
 
 from __future__ import annotations
